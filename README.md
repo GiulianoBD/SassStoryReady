@@ -1,1 +1,1 @@
-Basic Starter Template with Npm Babel Webpack
+Cute and Ready to Rock Starter Template with Npm, Babel and Webpack + TYPEKIT + STORYBLOCK + SASS + AXIOS
