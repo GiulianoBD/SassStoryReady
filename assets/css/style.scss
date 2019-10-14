@@ -1,0 +1,27 @@
+$main: #323B63;
+$white: #eeeeee;
+
+@import url("https://use.typekit.net/xez5aiq.css");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+    font-family: neue-haas-grotesk-text, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    letter-spacing: 0.2px;
+    color: $white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    background-color: $main;
+}
+
+
